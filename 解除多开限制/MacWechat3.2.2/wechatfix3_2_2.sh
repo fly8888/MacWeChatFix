@@ -18,4 +18,5 @@ codesign -fds - ~/Desktop/WeChat4.app;
 
 echo '移动微信到应用文件夹...'
 sudo mv  ~/Desktop/WeChat4.app /Applications/;
-echo '完成。请在应用文件夹打开微信4'
+echo '完成'
+echo '请在应用文件夹打开 微信4'
